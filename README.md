@@ -37,3 +37,7 @@ to 0.0 and disable the \<collision\> section of the 7-th link.
 ## How to run using the real robot
 
 1. roslaunch lwr_force_position_controllers single_lwr.launch use_lwr_sim:=false lwr_powered:=true
+
+## Authors
+* **Nicola Piga** - [xEnVrE](https://github.com/xEnVrE)
+* **Giulio Romualdi** - [GiulioRomualdi](https://github.com/GiulioRomualdi)
